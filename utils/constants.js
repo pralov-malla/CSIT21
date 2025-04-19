@@ -327,6 +327,7 @@ export const materials = {
         name: (
           <>
             SXC
+          
             <br />
             Old Qs
           </>
@@ -619,8 +620,10 @@ export const subjects = {
       shortName: "IR",
       microSyllabus:
         "https://drive.google.com/file/d/1P4DjuhJQNAgmkiuKHUDVZsA9jYCJp7ue/view?usp=drive_link",
-      notes: "",
-      questions: "",
+      notes: 
+        "https://collegenote.net/courses/notes/information-retrieval-csit-2074-syllabus-39",
+      questions: 
+        "https://collegenote.net/courses/old-question/information-retrieval-csit-2074-syllabus-39",
     },
     DBA: {
       name: "Database Administration",
